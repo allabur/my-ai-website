@@ -1,0 +1,4 @@
+# Foto de perfil placeholder
+# Reemplaza este archivo de texto con tu foto de perfil (profile.jpg)
+# Tamaño recomendado: 400x400 píxeles
+# Formato: JPG o PNG

@@ -1,0 +1,12 @@
+tu-nombre:
+  name: Tu Nombre
+  title: Desarrollador de IA e Investigador
+  url: https://github.com
+  imageURL: /img/logo.svg
+  email: tu-email@ejemplo.com
+  
+colaborador:
+  name: Nombre Colaborador
+  title: Co-autor ocasional
+  url: https://github.com
+  imageURL: /img/logo.svg
