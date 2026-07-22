@@ -1,0 +1,3 @@
+# Favicon placeholder
+# Para el favicon real, necesitarás subir tu archivo favicon.ico a static/img/
+# Puedes generar uno en https://favicon.io/ o https://realfavicongenerator.net/

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="brainGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Cerebro principal -->
+  <path d="M100 20 C140 20, 180 40, 180 80 C180 100, 170 120, 150 130 C160 140, 165 155, 160 170 C155 185, 140 190, 120 185 C110 195, 90 195, 80 185 C60 190, 45 185, 40 170 C35 155, 40 140, 50 130 C30 120, 20 100, 20 80 C20 40, 60 20, 100 20 Z" 
+        fill="url(#brainGradient)" 
+        stroke="#4a5568" 
+        stroke-width="2"/>
+  
+  <!-- Líneas del cerebro -->
+  <path d="M50 70 Q80 65, 110 70" stroke="#e2e8f0" stroke-width="2" fill="none"/>
+  <path d="M60 90 Q90 85, 120 90" stroke="#e2e8f0" stroke-width="2" fill="none"/>
+  <path d="M55 110 Q85 105, 115 110" stroke="#e2e8f0" stroke-width="2" fill="none"/>
+  <path d="M70 130 Q95 125, 120 130" stroke="#e2e8f0" stroke-width="2" fill="none"/>
+  
+  <!-- Conexiones neuronales -->
+  <circle cx="80" cy="60" r="3" fill="#fbbf24"/>
+  <circle cx="120" cy="75" r="3" fill="#fbbf24"/>
+  <circle cx="95" cy="95" r="3" fill="#fbbf24"/>
+  <circle cx="75" cy="115" r="3" fill="#fbbf24"/>
+  <circle cx="115" cy="120" r="3" fill="#fbbf24"/>
+  
+  <!-- Líneas de conexión -->
+  <line x1="80" y1="60" x2="120" y2="75" stroke="#fbbf24" stroke-width="1" opacity="0.6"/>
+  <line x1="120" y1="75" x2="95" y2="95" stroke="#fbbf24" stroke-width="1" opacity="0.6"/>
+  <line x1="95" y1="95" x2="75" y2="115" stroke="#fbbf24" stroke-width="1" opacity="0.6"/>
+  <line x1="75" y1="115" x2="115" y2="120" stroke="#fbbf24" stroke-width="1" opacity="0.6"/>
+</svg>
