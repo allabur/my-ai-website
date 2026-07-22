@@ -139,7 +139,7 @@ const config = {
               },
               {
                 label: "Proyectos",
-                to: "/docs/category/mis-proyectos",
+                to: "/docs/proyectos/proyecto-ia",
               },
             ],
           },
