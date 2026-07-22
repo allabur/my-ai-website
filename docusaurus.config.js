@@ -12,14 +12,14 @@ const config = {
   tagline: "Desarrollador de IA | Ingeniero | Investigador",
   favicon: "img/favicon.ico",
   // Set the production url of your site here
-  url: "https://localhost:3000",
+  url: "https://allabur.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
+  baseUrl: "/my-ai-website/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "github", // Usually your GitHub org/user name.
+  organizationName: "allabur", // Usually your GitHub org/user name.
   projectName: "my-ai-website", // Usually your repo name.
   deploymentBranch: "gh-pages",
   trailingSlash: false,
@@ -49,7 +49,7 @@ const config = {
           sidebarPath: "./sidebars.js",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/github/my-ai-website/tree/main/",
+          editUrl: "https://github.com/allabur/my-ai-website/tree/main/",
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
@@ -67,7 +67,7 @@ const config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/github/my-ai-website/tree/main/",
+          editUrl: "https://github.com/allabur/my-ai-website/tree/main/",
           // Useful options to enforce blogging best practices
           onInlineTags: "warn",
           onInlineAuthors: "warn",
